@@ -1,1 +1,1 @@
-# class_meeting_06_likelihood_field
+# class_meeting_05_likelihood_field
